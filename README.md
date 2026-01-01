@@ -69,7 +69,7 @@ rga will search for all binaries it calls in \$PATH and the directory itself is 
 
 Note that installing via [chocolatey](https://chocolatey.org/packages/ripgrep-all) or [scoop](https://github.com/ScoopInstaller/Main/blob/master/bucket/rga.json) is the only supported download method. If you download the binary from releases manually, you will not get the dependencies (for example pdftotext from poppler).
 
-If you get an error like `VCRUNTIME140.DLL could not be found`, you need to install [vc_redist.x64.exe](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads).
+If you get an error like `VCRUNTIME140.DLL could not be found`, you need to install [vc_redist.x64.exe](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
 
 #### Chocolatey
 
